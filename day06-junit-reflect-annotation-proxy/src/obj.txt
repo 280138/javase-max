@@ -1,0 +1,16 @@
+========Dog===========
+name=小黑
+age=3
+hobby=null
+========Student===========
+name=小明
+age=18
+hobby=爱问问题
+========Teacher===========
+name=小红
+age=19
+hobby=看报纸
+salary=3000.0
+className=422期
+sex=女
+phone=19920445028
